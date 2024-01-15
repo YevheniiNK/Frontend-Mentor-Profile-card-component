@@ -9,7 +9,6 @@
 /* ==================== Global style ====================== */
 
 :root {
-  --black: #000;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 400;
   font-size: 10px;
@@ -121,7 +120,7 @@
 }
 
 .attribution__items {
-  color: var(--black);
+  color: #fff;
 }
 
 .attribution__items > a {
